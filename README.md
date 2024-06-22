@@ -1,17 +1,18 @@
+[https://avatars.githubusercontent.com/u/143377834?v=4]()
 <h1 align="center">Hi! 这里是 Howard Jones</h1>
 <h3 align="center">一个坐落在互联网边缘的~福瑞控、萝莉控、正太控……~</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=howardjoness&label=Profile%20views&color=0e75b6&style=flat" alt="howardjoness" /> </p>
 
-- 🔭 I’m currently working on **Nothing**
+- 🔭 我正在专注于 **Nothing**
 
-- 📝 I regularly write articles on [https://blog.howardjones.cn/](https://blog.howardjones.cn/)
+- 📝 在 [https://blog.howardjones.cn/](我的博客) 上观看我的哔哔赖赖
 
-- 💬 Ask me about **Python、Pyqt、二刺猿**
+- 💬 和我一起讨论 **Python、Pyqt、二刺猿**
 
-- 📫 How to reach me **howardjones1919810@gmail.com**
+- 📫 通过 **howardjones1919810@gmail.com** 打扰我
 
-- 🎮 Game I play **Blue Archive | Genshin Impact | Minecraft | ...**
+- 🎮 和我一起van **Blue Archive | Genshin Impact | Minecraft | ...**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
